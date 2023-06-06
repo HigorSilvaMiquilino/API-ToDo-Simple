@@ -1,4 +1,4 @@
-package com.praticando.todosimple.Configs;
+package com.praticando.todosimple.configs;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
